@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+google-generativeai
+pymongo
+mongoengine
+passlib[bcrypt] 
+pydantic[email]
+PyJWT
+bcrypt==3.2.0
